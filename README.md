@@ -1,1 +1,1 @@
-# spring-boot-h2-db
+# springboot-h2-db
