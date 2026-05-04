@@ -1,4 +1,4 @@
-package take.dev.db;
+package takee.dev.db;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
